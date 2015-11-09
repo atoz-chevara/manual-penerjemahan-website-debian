@@ -1,10 +1,6 @@
 {
     "plugins": [
         "autocover",
-        "edit-link",
-        "github",
-        "anchors",
-        "youtube",
         "splitter"
     ],
     "pluginsConfig": {
