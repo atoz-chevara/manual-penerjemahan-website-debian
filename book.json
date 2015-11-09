@@ -20,5 +20,8 @@
                 "color": "#09F"
             }
         }
+        "github": {
+            "url": "https://github.com/your/repo"
+        }
     }
 }
