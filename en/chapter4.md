@@ -1,4 +1,4 @@
-# MENERJEMAHKAN BERKAS .wml
+# TRANSLATE FILE .wml
 
 ```bash
 cd webwml/indonesian

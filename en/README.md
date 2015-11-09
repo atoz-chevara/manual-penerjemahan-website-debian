@@ -1,5 +1,5 @@
-Manual Penerjemahan Website Debian
-==================================
+Debian Website Translation Manual
+=================================
 
 Manual ini di tuliskan untuk memudahkan Anda yang ingin membantu menerjemahkan website Debian, 
 apabila Anda menemukan kendala saat menerjemahkan halaman website, silahkan mengirimkan email 

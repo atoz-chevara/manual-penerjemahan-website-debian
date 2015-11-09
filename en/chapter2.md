@@ -1,4 +1,4 @@
-# PETUNJUK SINGKAT
+# BRIEF INSTRUCTIONS
 
 Membuat direktori untuk menyimpan proyek:
 

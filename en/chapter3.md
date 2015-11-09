@@ -1,4 +1,4 @@
-# MENERJEMAHKAN BERKAS po.
+# TRANSLATE FILE po.
 
 ```bash
 cd webwml/indonesian/po

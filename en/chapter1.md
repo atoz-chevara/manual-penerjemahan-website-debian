@@ -1,4 +1,4 @@
-# KATA PENGANTAR
+# PREFACE
 
 Debian adalah sistem operasi free (dari kata freedom yang berarti kebebasan) untuk komputer anda. 
 Sistem operasi adalah sekumpulan program-program dasar dan berbagai utilitas yang diperlukan komputer anda untuk bisa bekerja.
