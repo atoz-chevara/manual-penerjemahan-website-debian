@@ -1,3 +1,3 @@
 # DAFTAR ISI
 
-* [First Chapter](chapter1.md)
+* [Kata Pengantar](chapter1.md)
