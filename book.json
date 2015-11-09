@@ -1,12 +1,9 @@
 {
     "plugins": [
         "autocover",
-        "github",
+        "github"
     ],
     "pluginsConfig": {
-        "github": {
-            "url": "https://github.com/your/repo"
-        }
         "autocover": {
             "title": "Debian Website Tranlation Manual",
             "author": "Debian-id Team",
