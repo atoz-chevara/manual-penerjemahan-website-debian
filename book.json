@@ -1,23 +1,24 @@
 {
     "plugins": [
-        "autocover"
+        "autocover",
+        "github"
     ],
     "pluginsConfig": {
-    "autocover": {
-    "title": "Debian Website Tranlation Manual",
-    "author": "Debian-id Team",
-    "font": {
-        "size": null,
-        "family": "Impact",
-        "color": "#FFF"
-    },
-    "size": {
-        "w": 1800,
-        "h": 2360
-    },
-    "background": {
-        "color": "#09F"
-    }
-}
+        "autocover": {
+            "title": "Debian Website Tranlation Manual",
+            "author": "Debian-id Team",
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#FFF"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#09F"
+            }
+        }
     }
 }
