@@ -1,7 +1,8 @@
 {
     "plugins": [
         "autocover",
-        "youtube"
+        "youtube",
+        "github"
     ],
     "pluginsConfig": {
         "autocover": {
