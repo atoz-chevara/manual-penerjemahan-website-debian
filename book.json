@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "autocover"
+        "autocover",
+        "edit-link"
     ],
     "pluginsConfig": {
         "autocover": {
@@ -19,6 +20,5 @@
                 "color": "#09F"
             }
         }
-        
     }
 }
