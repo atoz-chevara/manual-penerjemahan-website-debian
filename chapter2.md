@@ -22,8 +22,10 @@ cvs -d :pserver:anonymous@cvs.alioth.debian.org:/cvsroot/webwml login
 Mengunduh direktori english dan indonesian:
 
 ```bash
-cvs -d :pserver:anonymous@cvs.alioth.debian.org:/cvsroot/webwml checkout webwml/english
-cvs -d :pserver:anonymous@cvs.alioth.debian.org:/cvsroot/webwml checkout webwml/indonesian
+cvs -d :pserver:anonymous@cvs.alioth.debian.org:/cvsroot/webwml 
+checkout webwml/english
+cvs -d :pserver:anonymous@cvs.alioth.debian.org:/cvsroot/webwml 
+checkout webwml/indonesian
 ```
 
 ## Contoh Menerjemahkan berkas po.
@@ -35,7 +37,7 @@ vi templates.id.po
 
 Sunting berkas templates.id.po sehingga sesuai dengan berikut ini:
 
-```bash
+```wml
 "Last-Translator: Nama Anda <nama-user@debian-id.org>\n"
 "Language-Team: Indonesian <debian-l10n-indonesian@lists.debian.org>\n"
 ```
@@ -50,7 +52,7 @@ Upload berkas templates.id.po yang telah diterjemahkan ke alamat email debian-l1
 
 Contoh: ftp://debian-id.alioth.debian.org/pub/debian-id/send-email-po.png
 
-```bash
+```
 Subjek: Changes by atoz-chevara-guest: webwml/indonesian/po templates.id.po
 
 Changes by:
@@ -74,7 +76,7 @@ Sunting berkas social_contract.wml dan lakukan terjemahan. Jangan melakukan peru
 
 Perhatikan pada bagian header dari setiap berkas wml yang ingin Anda terjemahkan, contoh berikut masih dengan berkas social_contract.wml:
 
-```bash
+```xml
 #use wml::debian::template title="Debian Social Contract" BARETITLE=true
 
 #  Original document: contract.html
@@ -84,7 +86,7 @@ Perhatikan pada bagian header dari setiap berkas wml yang ingin Anda terjemahkan
 
 Selalu menyertakan translation-check pada bagian header di semua berkas wml yang diterjemahkan:
 
-```bash
+```wml
 #use wml::debian::template title="Kontrak Sosial Debian" BARETITLE=true
 #use wml::debian::translation-check translation="1.24" maintainer="Izharul Haq"
 #  Original document: contract.html
