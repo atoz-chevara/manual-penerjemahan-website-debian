@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "autocover",
-        "splitter"
+        "autocover"
     ],
     "pluginsConfig": {
         "autocover": {
