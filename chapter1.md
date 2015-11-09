@@ -1,3 +1,5 @@
 # PENDAHULUAN
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Manual ini di tuliskan untuk memudahkan Anda yang ingin membantu menerjemahkan website Debian, apabila Anda menemukan kendala saat menerjemahkan halaman website, silahkan mengirimkan email ke debian-l10n-indonesian@lists.debian.org.
+
+Jika Anda berminat untuk menjadi relawan penerjemah, atau ingin memberikan masukan dalam bahasa Indonesia, atau hanya sekedar ingin tahu lebih lanjut, silahkan mengunjungi halaman tersebut.
