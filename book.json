@@ -1,7 +1,6 @@
 {
     "plugins": [
-        "autocover",
-        "github"
+        "autocover"
     ],
     "pluginsConfig": {
         "autocover": {
