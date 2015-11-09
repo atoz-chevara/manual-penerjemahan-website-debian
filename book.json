@@ -3,7 +3,7 @@
         "autocover"
     ],
     "pluginsConfig": {
-        
+    "autocover": {
     "title": "My Book",
     "author": "Author",
     "font": {
