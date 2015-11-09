@@ -4,7 +4,7 @@
         "autocover": {
             // Configuration for autocover (see below)
             // Start
-            {
+            
     "title": "My Book",
     "author": "Author",
     "font": {
@@ -19,7 +19,7 @@
     "background": {
         "color": "#09F"
     }
-}
+
             // End
         }
     }
