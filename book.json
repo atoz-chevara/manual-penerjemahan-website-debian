@@ -3,7 +3,8 @@
         "autocover",
         "edit-link",
         "github",
-        "anchors"
+        "anchors",
+        "youtube"
     ],
     "pluginsConfig": {
         "autocover": {
