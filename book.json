@@ -4,10 +4,10 @@
         "edit-link",
         "github",
         "anchors",
-        "youtube"
+        "youtube",
+        "splitter"
     ],
     "pluginsConfig": {
-        
         "autocover": {
             "title": "Debian Website Tranlation Manual",
             "author": "Debian-id Team",
