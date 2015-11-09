@@ -7,9 +7,6 @@
         "youtube"
     ],
     "pluginsConfig": {
-        "github": {
-            "url": "https://github.com/your/repo"
-        }
         
         "autocover": {
             "title": "Debian Website Tranlation Manual",
@@ -28,4 +25,8 @@
             }
         }
     }
+    
+    "github": {
+            "url": "https://github.com/your/repo"
+        }
 }
