@@ -1,7 +1,7 @@
-# DAFTAR ISI
+# TABLE OF CONTENT
 
-* [Pendahuluan](README.md)
-* [Kata Pengantar](chapter1.md)
+* [Introduction](README.md)
+* [Preface](chapter1.md)
 * [Petunjuk Singkat](chapter2.md)
-* [Menerjemahkan Berkas .po](chapter3.md)
-* [Menerjemahkan Berkas .wml](chapter4.md)
+* [Translate File .po](chapter3.md)
+* [Translate File .wml](chapter4.md)
