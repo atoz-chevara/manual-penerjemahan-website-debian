@@ -1,9 +1,7 @@
 # MENERJEMAHKAN BERKAS po.
 
-```bash
-cd webwml/indonesian/po
-vi templates.id.po
-```
+    $ cd webwml/indonesian/po
+    $ vi templates.id.po
 
 Sunting berkas *templates.id.po* sehingga sesuai dengan berikut ini:
 
