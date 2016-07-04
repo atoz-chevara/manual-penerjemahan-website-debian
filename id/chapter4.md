@@ -1,9 +1,7 @@
 # MENERJEMAHKAN BERKAS .wml
 
-```bash
-cd webwml/indonesian
-cp ../english/social_contract.wml .
-```
+    $ cd webwml/indonesian
+    $ cp ../english/social_contract.wml .
 
 Sunting berkas *social_contract.wml* dan lakukan terjemahan.
 
