@@ -1,9 +1,7 @@
 # TRANSLATE FILE po.
 
-```bash
-cd webwml/indonesian/po
-vi templates.id.po
-```
+    $ cd webwml/indonesian/po
+    $ vi templates.id.po
 
 Sunting berkas *templates.id.po* sehingga sesuai dengan berikut ini:
 
@@ -15,9 +13,7 @@ Sunting berkas *templates.id.po* sehingga sesuai dengan berikut ini:
 Anda dapat menggunakan text editor atau applikasi seperti [poedit](https://poedit.net/download "unduh poedit") & 
 [virtaal](http://virtaal.translatehouse.org/download.html "unduh virtaal"). Periksa kembali hasil terjemahan Anda:
 
-```bash
-$ msgfmt --statistics -c -v -o /dev/null templates.id.po
-```
+    $ msgfmt --statistics -c -v -o /dev/null templates.id.po
 
 Upload berkas *templates.id.po* yang telah diterjemahkan ke alamat email debian-l10n-indonesian@lists.debian.org dengan 
 menyertakan deskripsi tentang apa yang telah Anda kerjakan.
