@@ -22,8 +22,6 @@ $ cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml login
 Mengunduh direktori english dan indonesian:
 
 ```bash
-$ cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout -l \ 
-    webwml webwml/english
-$ cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout -l \ 
-    webwml webwml/indonesian
+$ cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout -l webwml webwml/english
+$ cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout -l webwml webwml/indonesian
 ```
