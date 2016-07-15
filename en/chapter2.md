@@ -10,7 +10,7 @@ Mengakses direktori yang telah dibuat:
 
 Mengakses repository webwml:
 
-    $ cvs -d :pserver:anonymous@cvs.alioth.debian.org:/cvsroot/webwml login
+    $ cvs -d :pserver:anonymous@cvs.alioth.debian.org:/cvs/webwml login
     (Apabila di minta password, tekan Enter)
 
 Mengunduh direktori english dan indonesian:
